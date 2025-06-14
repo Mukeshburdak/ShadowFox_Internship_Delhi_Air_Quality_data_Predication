@@ -54,7 +54,7 @@ Cross-validation Score
 bash
 Copy
 Edit
-git clone https://github.com/mukeshburdak/air-quality-prediction.git
+git clone https://github.com/Mukeshburdak/air-quality-prediction.git
 cd air-quality-prediction
 pip install -r requirements.txt
 ▶️ Usage
