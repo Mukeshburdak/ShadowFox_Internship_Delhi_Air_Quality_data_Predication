@@ -1,0 +1,37 @@
+✅ Basic requirements.txt for ML project
+nginx
+Copy
+Edit
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+✅ If your model uses advanced processing or tuning:
+nginx
+Copy
+Edit
+xgboost
+lightgbm
+catboost
+optuna
+✅ For saving/loading models:
+nginx
+Copy
+Edit
+joblib
+pickle-mixin
+✅ Full example (safe for most ML tasks):
+txt
+Copy
+Edit
+numpy>=1.22
+pandas>=1.4
+scikit-learn>=1.1
+matplotlib>=3.5
+seaborn>=0.11
+jupyterlab
+xgboost>=1.6
+lightgbm>=3.3
+joblib>=1.1
